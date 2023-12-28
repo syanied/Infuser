@@ -4,4 +4,4 @@
 or could be developed via the API)
 
 [IMPORTANT]: Infuser version x1.0 does NOT have a controlled environment such as a Sandbox
-                     to limit the usage of the Plugin used during application runtime. 
+                     to limit the permission(s) of the Plugin used during application runtime. 
