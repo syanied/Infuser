@@ -1,7 +1,5 @@
 # Infuser [x1.0]
 
-Graphical Interface for Command-line Applications.
-
 (This application uses a modular system in the form of plugins that can be found [here](https://discord.gg/d9rFtgkBXK) 
 or could be developed via the API)
 
