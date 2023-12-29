@@ -1,6 +1,6 @@
 # Infuser [x1.0]
 
-Desktop (win 7/10/11) release: [here ]([https://discord.gg/d9rFtgkBXK](https://drive.google.com/file/d/1okFJQdnsYx9b4BtZNdU4nqbQTxeEwPne/view))
+Desktop (win 7/10/11) release: [here](https://drive.google.com/file/d/1okFJQdnsYx9b4BtZNdU4nqbQTxeEwPne/view)
 
 [This application uses a modular system in the form of plugins that can be developed via its API]
 
